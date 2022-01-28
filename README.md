@@ -8,4 +8,4 @@ Currently it is under construction.
 
 ![image](https://user-images.githubusercontent.com/45902447/151496698-85de23c8-a7f9-42f7-ae1d-c8d27cf1c7b8.png)
 
-![image](https://user-images.githubusercontent.com/45902447/151496843-ab8a74ef-8ce7-41dd-a228-cfda26accf49.png)
+![image](https://user-images.githubusercontent.com/45902447/151501654-c76cad6d-7352-4a11-8438-8748d8260eb5.png)
