@@ -6,6 +6,7 @@ Currently it is under construction.
 * Accounts Added!
 * Dashboard Added!
 * Pagination Added!
+* REST API Implemented!
 
 ![image](https://user-images.githubusercontent.com/45902447/151496511-65d6cbf8-a450-4cab-9c93-f9b87038690e.png)
 
