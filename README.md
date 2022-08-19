@@ -1,4 +1,4 @@
-# mcsq-webspage
+# mcqs-webspage
 Webpage for students
 
 It is fully dynamic, you can control every single piece of text from dasboard.\
